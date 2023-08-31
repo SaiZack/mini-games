@@ -1,0 +1,124 @@
+{
+  "animals": [
+    {
+      "name": "Aardvark",
+      "habitat": "Grasslands, savannas, forests",
+      "lifespan": "15-23 years",
+      "fact": "Specialized long tongue for eating ants and termites."
+    },
+    {
+      "name": "Albatross",
+      "habitat": "Open oceans and remote islands",
+      "lifespan": "Up to 50 years",
+      "fact": "Can fly long distances without flapping wings."
+    },
+    {
+      "name": "Alligator",
+      "habitat": "Freshwater swamps, marshes, and rivers",
+      "lifespan": "35-50 years",
+      "fact": "Cold-blooded reptile with stealthy hunting."
+    },
+    {
+      "name": "Alpaca",
+      "habitat": "Mountainous regions of South America",
+      "lifespan": "15-25 years",
+      "fact": "Social animal valued for soft fleece."
+    },
+    {
+      "name": "Ant",
+      "habitat": "Various terrestrial habitats",
+      "lifespan": "A few weeks to several years",
+      "fact": "Highly organized colony with diverse roles."
+    },
+    {
+      "name": "Anteater",
+      "habitat": "Tropical and subtropical forests",
+      "lifespan": "15-20 years",
+      "fact": "Strong sense of smell, long tongue for insects."
+    },
+    {
+      "name": "Antelope",
+      "habitat": "Grasslands, savannas, and forests",
+      "lifespan": "10-25 years",
+      "fact": "Adapted for running, distinct horns."
+    },
+    {
+      "name": "Ape",
+      "habitat": "Various habitats including forests and grasslands",
+      "lifespan": "20-60 years (varies by species)",
+      "fact": "Highly intelligent, shares DNA with humans."
+    },
+    {
+      "name": "Armadillo",
+      "habitat": "Grasslands, forests, and deserts",
+      "lifespan": "4-30 years (varies by species)",
+      "fact": "Protective armor-like shell."
+    },
+    {
+      "name": "Baboon",
+      "habitat": "Savannas, open woodlands",
+      "lifespan": "20-30 years",
+      "fact": "Highly social primate with complex structure."
+    },
+    {
+      "name": "Badger",
+      "habitat": "Various habitats including forests and grasslands",
+      "lifespan": "4-10 years",
+      "fact": "Known for digging, distinctive markings."
+    },
+    {
+      "name": "Barracuda",
+      "habitat": "Tropical and subtropical oceans",
+      "lifespan": "10-15 years",
+      "fact": "Swift predator with streamlined body, sharp teeth."
+    },
+    {
+      "name": "Bat",
+      "habitat": "Various habitats including caves and forests",
+      "lifespan": "5-30 years (varies by species)",
+      "fact": "The only mammal capable of sustained flight."
+    },
+    {
+      "name": "Bear",
+      "habitat": "Various habitats including forests and mountains",
+      "lifespan": "20-30 years (varies by species)",
+      "fact": "Large mammal known for strength, hibernation."
+    },
+    {
+      "name": "Beaver",
+      "habitat": "Rivers, streams, and wetlands",
+      "lifespan": "10-15 years (wild), up to 20 years (captivity)",
+      "fact": "Skilled builder of dams, lodges."
+    },
+    {
+      "name": "Bee",
+      "habitat": "Various terrestrial habitats",
+      "lifespan": "Few weeks to several months",
+      "fact": "Crucial role in pollination, honey production."
+    },
+    {
+      "name": "Bison",
+      "habitat": "Grasslands and prairies",
+      "lifespan": "15-25 years",
+      "fact": "Large herbivore with hump, curved horns."
+    },
+    {
+      "name": "Boar",
+      "habitat": "Forests, grasslands, and wetlands",
+      "lifespan": "8-10 years",
+      "fact": "Wild pig known for tusks, omnivorous diet."
+    },
+    {
+      "name": "Buffalo",
+      "habitat": "Grasslands and forests",
+      "lifespan": "10-20 years",
+      "fact": "Large herbivore with hump, curved horns."
+    },
+    {
+      "name": "Butterfly",
+      "habitat": "Various habitats including gardens and meadows",
+      "lifespan": "1 week to 1 year (varies by species)",
+      "fact": "Undergoes metamorphosis, caterpillar to adult."
+    }
+  ]
+}
