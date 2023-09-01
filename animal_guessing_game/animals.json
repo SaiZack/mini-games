@@ -1,1360 +1,349 @@
 {
-  "animals": [
-    {
-      "name": "Aardvark",
-      "habitat": "Grasslands, savannas, forests",
-      "lifespan": "15-23 years",
-      "fact": "Specialized long tongue for eating ants and termites."
-    },
-    {
-      "name": "Albatross",
-      "habitat": "Open oceans and remote islands",
-      "lifespan": "Up to 50 years",
-      "fact": "Can fly long distances without flapping wings."
-    },
-    {
-      "name": "Alligator",
-      "habitat": "Freshwater swamps, marshes, and rivers",
-      "lifespan": "35-50 years",
-      "fact": "Cold-blooded reptile with stealthy hunting."
-    },
-    {
-      "name": "Alpaca",
-      "habitat": "Mountainous regions of South America",
-      "lifespan": "15-25 years",
-      "fact": "Social animal valued for soft fleece."
-    },
-    {
-      "name": "Ant",
-      "habitat": "Various terrestrial habitats",
-      "lifespan": "A few weeks to several years",
-      "fact": "Highly organized colony with diverse roles."
-    },
-    {
-      "name": "Anteater",
-      "habitat": "Tropical and subtropical forests",
-      "lifespan": "15-20 years",
-      "fact": "Strong sense of smell, long tongue for insects."
-    },
-    {
-      "name": "Antelope",
-      "habitat": "Grasslands, savannas, and forests",
-      "lifespan": "10-25 years",
-      "fact": "Adapted for running, distinct horns."
-    },
-    {
-      "name": "Ape",
-      "habitat": "Various habitats including forests and grasslands",
-      "lifespan": "20-60 years (varies by species)",
-      "fact": "Highly intelligent, shares DNA with humans."
-    },
-    {
-      "name": "Armadillo",
-      "habitat": "Grasslands, forests, and deserts",
-      "lifespan": "4-30 years (varies by species)",
-      "fact": "Protective armor-like shell."
-    },
-    {
-      "name": "Baboon",
-      "habitat": "Savannas, open woodlands",
-      "lifespan": "20-30 years",
-      "fact": "Highly social primate with complex structure."
-    },
-    {
-      "name": "Badger",
-      "habitat": "Various habitats including forests and grasslands",
-      "lifespan": "4-10 years",
-      "fact": "Known for digging, distinctive markings."
-    },
-    {
-      "name": "Barracuda",
-      "habitat": "Tropical and subtropical oceans",
-      "lifespan": "10-15 years",
-      "fact": "Swift predator with streamlined body, sharp teeth."
-    },
-    {
-      "name": "Bat",
-      "habitat": "Various habitats including caves and forests",
-      "lifespan": "5-30 years (varies by species)",
-      "fact": "The only mammal capable of sustained flight."
-    },
-    {
-      "name": "Bear",
-      "habitat": "Various habitats including forests and mountains",
-      "lifespan": "20-30 years (varies by species)",
-      "fact": "Large mammal known for strength, hibernation."
-    },
-    {
-      "name": "Beaver",
-      "habitat": "Rivers, streams, and wetlands",
-      "lifespan": "10-15 years (wild), up to 20 years (captivity)",
-      "fact": "Skilled builder of dams, lodges."
-    },
-    {
-      "name": "Bee",
-      "habitat": "Various terrestrial habitats",
-      "lifespan": "Few weeks to several months",
-      "fact": "Crucial role in pollination, honey production."
-    },
-    {
-      "name": "Bison",
-      "habitat": "Grasslands and prairies",
-      "lifespan": "15-25 years",
-      "fact": "Large herbivore with hump, curved horns."
-    },
-    {
-      "name": "Boar",
-      "habitat": "Forests, grasslands, and wetlands",
-      "lifespan": "8-10 years",
-      "fact": "Wild pig known for tusks, omnivorous diet."
-    },
-    {
-      "name": "Buffalo",
-      "habitat": "Grasslands and forests",
-      "lifespan": "10-20 years",
-      "fact": "Large herbivore with hump, curved horns."
-    },
-    {
-      "name": "Butterfly",
-      "habitat": "Various habitats including gardens and meadows",
-      "lifespan": "1 week to 1 year (varies by species)",
-      "fact": "Undergoes metamorphosis, caterpillar to adult."
-    },
-    {
-        "name": "Camel",
-        "habitat": "Deserts",
-        "lifespan": "40-50 years",
-        "fact": "Well-adapted to survive in harsh desert environments."
-      },
-      {
-        "name": "Capybara",
-        "habitat": "Grasslands, wetlands",
-        "lifespan": "8-10 years (wild), up to 12 years (captivity)",
-        "fact": "Largest rodent in the world, known for its social nature."
-      },
-      {
-        "name": "Caribou",
-        "habitat": "Arctic tundra, boreal forests",
-        "lifespan": "10-12 years",
-        "fact": "Also known as reindeer, migrates in search of food."
-      },
-      {
-        "name": "Cassowary",
-        "habitat": "Tropical rainforests, swamps",
-        "lifespan": "40-50 years",
-        "fact": "Flightless bird with a helmet-like casque on its head."
-      },
-      {
-        "name": "Cat",
-        "habitat": "Various habitats including homes and urban areas",
-        "lifespan": "12-18 years (domestic), varies for wild species",
-        "fact": "Cats are known for their agility and independent behavior."
-      },
-      {
-        "name": "Caterpillar",
-        "habitat": "Various habitats including plants and trees",
-        "lifespan": "Few weeks to several months",
-        "fact": "Larval stage of insects, transforms into a butterfly or moth."
-      },
-      {
-        "name": "Cattle",
-        "habitat": "Various habitats including farms and grasslands",
-        "lifespan": "15-20 years",
-        "fact": "Domesticated for meat, milk, and other products."
-      },
-      {
-        "name": "Chamois",
-        "habitat": "Alpine regions",
-        "lifespan": "10-15 years",
-        "fact": "Mountain-dwelling ungulate with excellent agility."
-      },
-      {
-        "name": "Cheetah",
-        "habitat": "Grasslands, savannas",
-        "lifespan": "10-12 years",
-        "fact": "Fastest land animal, capable of incredible speeds."
-      },
-      {
-        "name": "Chicken",
-        "habitat": "Farms and rural areas",
-        "lifespan": "5-10 years (domestic), varies for wild species",
-        "fact": "One of the most common and widespread domesticated animals."
-      },
-      {
-        "name": "Chimpanzee",
-        "habitat": "Tropical rainforests",
-        "lifespan": "40-50 years",
-        "fact": "Highly intelligent primate known for using tools."
-      },
-      {
-        "name": "Chinchilla",
-        "habitat": "Andes mountains",
-        "lifespan": "10-20 years (captivity)",
-        "fact": "Valued for its soft fur, active during twilight."
-      },
-      {
-        "name": "Chough",
-        "habitat": "Coastal cliffs, grasslands",
-        "lifespan": "5-10 years",
-        "fact": "Distinctive bird known for its acrobatic flight."
-      },
-      {
-        "name": "Clam",
-        "habitat": "Marine and freshwater environments",
-        "lifespan": "20-30 years",
-        "fact": "Shellfish with a bivalve shell, used as food."
-      },
-      {
-        "name": "Cobra",
-        "habitat": "Various habitats including grasslands and forests",
-        "lifespan": "20-25 years",
-        "fact": "Venomous snake known for its hood and striking behavior."
-      },
-      {
-        "name": "Cockroach",
-        "habitat": "Various habitats including human environments",
-        "lifespan": "1 year or more",
-        "fact": "Resilient insect capable of surviving harsh conditions."
-      },
-      {
-        "name": "Cod",
-        "habitat": "Marine environments",
-        "lifespan": "10-20 years",
-        "fact": "Important commercial fish species, used for food."
-      },
-      {
-        "name": "Cormorant",
-        "habitat": "Coastal areas, lakes",
-        "lifespan": "10-20 years",
-        "fact": "Waterbird with excellent diving and fishing abilities."
-      },
-      {
-        "name": "Coyote",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "6-8 years (wild), up to 14 years (captivity)",
-        "fact": "Adaptable predator, often heard howling at night."
-      },
-      {
-        "name": "Crab",
-        "habitat": "Marine and freshwater environments",
-        "lifespan": "3-4 years (varies by species)",
-        "fact": "Crustacean known for its sideways walking and tough shell."
-      },
-      {
-        "name": "Crane",
-        "habitat": "Wetlands, grasslands",
-        "lifespan": "20-30 years",
-        "fact": "Tall, elegant bird with distinctive courtship dance."
-      },
-      {
-        "name": "Crocodile",
-        "habitat": "Freshwater and marine environments",
-        "lifespan": "70-100 years (varies by species)",
-        "fact": "Large reptile with a powerful bite and ambush hunting."
-      },
-      {
-        "name": "Crow",
-        "habitat": "Various habitats including urban areas and forests",
-        "lifespan": "7-8 years (wild), up to 20 years (captivity)",
-        "fact": "Intelligent bird known for problem-solving abilities."
-      },
-      {
-        "name": "Curlew",
-        "habitat": "Coastal areas, mudflats",
-        "lifespan": "8-10 years",
-        "fact": "Long-beaked wader bird with a distinctive call."
-      },
-    {
-        "name": "Deer",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "6-14 years (varies by species)",
-        "fact": "Hoofed mammals known for their antlers (in males) and graceful appearance."
-      },
-      {
-        "name": "Dinosaur",
-        "habitat": "Prehistoric times",
-        "lifespan": "Varied by species, millions of years ago",
-        "fact": "Ancient reptiles that dominated the Earth during the Mesozoic Era."
-      },
-      {
-        "name": "Dog",
-        "habitat": "Various habitats including homes and urban areas",
-        "lifespan": "10-13 years (varies by breed)",
-        "fact": "Domesticated canines known for their loyalty and companionship."
-      },
-      {
-        "name": "Dogfish",
-        "habitat": "Marine environments",
-        "lifespan": "10-20 years",
-        "fact": "Cartilaginous fish with spiky fins, often used in fish and chips."
-      },
-      {
-        "name": "Dolphin",
-        "habitat": "Oceans and seas",
-        "lifespan": "20-50 years",
-        "fact": "Highly intelligent marine mammals, known for their playful behavior."
-      },
-      {
-        "name": "Dotterel",
-        "habitat": "Coastal areas, grasslands",
-        "lifespan": "4-5 years",
-        "fact": "Small wading bird with a distinctive call."
-      },
-      {
-        "name": "Dove",
-        "habitat": "Various habitats including urban areas and forests",
-        "lifespan": "1-3 years",
-        "fact": "Symbol of peace, often associated with love and devotion."
-      },
-      {
-        "name": "Dragonfly",
-        "habitat": "Various habitats near water bodies",
-        "lifespan": "1 month to several months",
-        "fact": "Insect with unique flight abilities and vibrant colors."
-      },
-      {
-        "name": "Duck",
-        "habitat": "Freshwater and marine environments",
-        "lifespan": "2-10 years (varies by species)",
-        "fact": "Waterfowl known for their quacking sound and webbed feet."
-      },
-      {
-        "name": "Dugong",
-        "habitat": "Shallow coastal waters, seagrass beds",
-        "lifespan": "40-70 years",
-        "fact": "Marine mammal often called the 'sea cow,' related to manatees."
-      },
-      {
-        "name": "Dunlin",
-        "habitat": "Coastal areas, mudflats",
-        "lifespan": "4-7 years",
-        "fact": "Small wader bird with a distinctive black belly patch in breeding plumage."
-      },
-      {
-        "name": "Donkey",
-        "habitat": "Various habitats including rural areas",
-        "lifespan": "25-30 years",
-        "fact": "Domesticated for work and transportation, known for their braying."
-      },
-      {
-        "name": "Eagle",
-        "habitat": "Various habitats including mountains and forests",
-        "lifespan": "20-30 years (varies by species)",
-        "fact": "Majestic bird of prey known for its keen eyesight and soaring flight."
-      },
-      {
-        "name": "Echidna",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "15-20 years (varies by species)",
-        "fact": "Spiny anteater-like monotreme with a long tongue for catching insects."
-      },
-      {
-        "name": "Eel",
-        "habitat": "Freshwater and marine environments",
-        "lifespan": "5-20 years (varies by species)",
-        "fact": "Slender fish with snake-like body, often migrates between freshwater and saltwater."
-      },
-      {
-        "name": "Eland",
-        "habitat": "Savannas, grasslands",
-        "lifespan": "15-25 years",
-        "fact": "Large antelope with twisted horns and distinctive dewlap."
-      },
-      {
-        "name": "Elephant",
-        "habitat": "Various habitats including forests, savannas, and deserts",
-        "lifespan": "60-70 years",
-        "fact": "Largest land animals, known for their long trunks and tusks."
-      },
-      {
-        "name": "Elk",
-        "habitat": "Forests, grasslands",
-        "lifespan": "10-20 years",
-        "fact": "Large deer species with impressive antlers, also called wapiti."
-      },
-      {
-        "name": "Emu",
-        "habitat": "Savannas, grasslands",
-        "lifespan": "10-20 years (varies by species)",
-        "fact": "Flightless bird native to Australia, known for its speed and size."
-      },
-      {
-        "name": "Falcon",
-        "habitat": "Various habitats including mountains and grasslands",
-        "lifespan": "10-15 years (varies by species)",
-        "fact": "Fast-flying bird of prey known for its hunting abilities."
-      },
-      {
-        "name": "Ferret",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "5-10 years",
-        "fact": "Domesticated carnivorous mammal often kept as a pet."
-      },
-      {
-        "name": "Finch",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "2-10 years (varies by species)",
-        "fact": "Small songbird known for its cheerful and melodious song."
-      },
-      {
-        "name": "Fish",
-        "habitat": "Various aquatic environments",
-        "lifespan": "Varies greatly by species",
-        "fact": "Diverse group of aquatic animals with gills and scales."
-      },
-      {
-        "name": "Flamingo",
-        "habitat": "Salt flats, lagoons, coastal areas",
-        "lifespan": "20-30 years",
-        "fact": "Tall wading bird known for its distinctive pink plumage."
-      },
-      {
-        "name": "Fly",
-        "habitat": "Various habitats including human environments",
-        "lifespan": "Few days to a few weeks",
-        "fact": "Small insect with two wings, known for its agility and buzzing sound."
-      },
-      {
-        "name": "Fox",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "3-5 years (wild), up to 14 years (captivity)",
-        "fact": "Cunning mammal known for its intelligence and adaptability."
-      },
-      {
-        "name": "Frog",
-        "habitat": "Various habitats near water bodies",
-        "lifespan": "2-15 years (varies by species)",
-        "fact": "Amphibian known for its jumping ability and distinctive croaking."
-      },
-      {
-        "name": "Gaur",
-        "habitat": "Tropical and subtropical forests",
-        "lifespan": "20-30 years",
-        "fact": "Large wild ox native to South Asia, powerful and robust."
-      },
-      {
-        "name": "Gazelle",
-        "habitat": "Grasslands, savannas",
-        "lifespan": "10-15 years (varies by species)",
-        "fact": "Graceful antelope known for its speed and agility."
-      },
-      {
-        "name": "Gerbil",
-        "habitat": "Various habitats including deserts and grasslands",
-        "lifespan": "2-4 years",
-        "fact": "Small rodent known for its burrowing behavior."
-      },
-      {
-        "name": "Giraffe",
-        "habitat": "Savannas, grasslands",
-        "lifespan": "20-25 years (wild), up to 40 years (captivity)",
-        "fact": "Tallest land animal, known for its long neck and distinctive pattern."
-      },
-      {
-        "name": "Gnat",
-        "habitat": "Various habitats including forests and wetlands",
-        "lifespan": "Few days to a few weeks",
-        "fact": "Tiny flying insect known for its nuisance biting behavior."
-      },
-      {
-        "name": "Gnu",
-        "habitat": "Grasslands, savannas",
-        "lifespan": "10-20 years",
-        "fact": "Wildebeest, large antelope known for its annual migration."
-      },
-      {
-        "name": "Goat",
-        "habitat": "Various habitats including farms and mountains",
-        "lifespan": "10-15 years (varies by breed)",
-        "fact": "Domesticated mammal raised for milk, meat, and fiber."
-      },
-      {
-        "name": "Goldfinch",
-        "habitat": "Various habitats including gardens and woodlands",
-        "lifespan": "3-6 years",
-        "fact": "Small songbird known for its vibrant plumage and delightful song."
-      },
-      {
-        "name": "Goldfish",
-        "habitat": "Aquariums, ponds",
-        "lifespan": "10-15 years (captivity)",
-        "fact": "Domesticated fish bred for ornamental purposes."
-      },
-      {
-        "name": "Goose",
-        "habitat": "Various aquatic environments",
-        "lifespan": "10-25 years (varies by species)",
-        "fact": "Waterfowl known for their honking call and migratory behavior."
-      },
-      {
-        "name": "Gorilla",
-        "habitat": "Tropical rainforests",
-        "lifespan": "35-50 years (varies by species)",
-        "fact": "Large primate known for its strength and gentle behavior."
-      },
-      {
-        "name": "Goshawk",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "8-20 years",
-        "fact": "Bird of prey known for its powerful flight and hunting skills."
-      },
-      {
-        "name": "Grasshopper",
-        "habitat": "Various habitats including grasslands and gardens",
-        "lifespan": "Few weeks to several months",
-        "fact": "Insect known for its jumping ability and distinctive sound."
-      },
-      {
-        "name": "Grouse",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "1-10 years (varies by species)",
-        "fact": "Game bird known for its drumming displays and diverse species."
-      },
-      {
-        "name": "Guanaco",
-        "habitat": "Grasslands, mountains",
-        "lifespan": "20-25 years",
-        "fact": "South American camelid related to the llama and alpaca."
-      },
-      {
-        "name": "Gull",
-        "habitat": "Coastal areas, lakes",
-        "lifespan": "5-15 years",
-        "fact": "Seabird with a distinctive call, often scavenges for food."
-      },
-      {
-        "name": "Hamster",
-        "habitat": "Various habitats including grasslands and burrows",
-        "lifespan": "2-3 years",
-        "fact": "Small rodent known for its cheek pouches and burrowing behavior."
-      },
-      {
-        "name": "Hare",
-        "habitat": "Various habitats including grasslands and forests",
-        "lifespan": "2-8 years (varies by species)",
-        "fact": "Fast-running mammal similar to rabbits, with longer legs."
-      },
-      {
-        "name": "Hawk",
-        "habitat": "Various habitats including mountains and forests",
-        "lifespan": "10-30 years (varies by species)",
-        "fact": "Bird of prey with keen eyesight and powerful talons."
-      },
-      {
-        "name": "Hedgehog",
-        "habitat": "Various habitats including gardens and woodlands",
-        "lifespan": "2-7 years (varies by species)",
-        "fact": "Spiky mammal known for curling into a ball as defense."
-      },
-      {
-        "name": "Heron",
-        "habitat": "Wetlands, coastal areas",
-        "lifespan": "5-15 years (varies by species)",
-        "fact": "Wading bird known for its long legs and elegant appearance."
-      },
-      {
-        "name": "Herring",
-        "habitat": "Marine environments",
-        "lifespan": "5-15 years",
-        "fact": "Silvery fish often used for food and commercial fishing."
-      },
-      {
-        "name": "Hippopotamus",
-        "habitat": "Rivers, lakes, swamps",
-        "lifespan": "40-50 years",
-        "fact": "Large semi-aquatic mammal known for its size and aggression."
-      },
-      {
-        "name": "Hornet",
-        "habitat": "Various habitats including forests and gardens",
-        "lifespan": "Few weeks to a few months",
-        "fact": "Large stinging insect often found in colonies."
-      },
-      {
-        "name": "Horse",
-        "habitat": "Various habitats including grasslands and farms",
-        "lifespan": "25-30 years (varies by breed)",
-        "fact": "Domesticated mammal used for transportation, work, and sport."
-      },
-      {
-        "name": "Hummingbird",
-        "habitat": "Various habitats including gardens and forests",
-        "lifespan": "3-5 years (varies by species)",
-        "fact": "Tiny bird known for its rapid wing beats and hovering."
-      },
-      {
-        "name": "Hyena",
-        "habitat": "Various habitats including grasslands and deserts",
-        "lifespan": "10-25 years (varies by species)",
-        "fact": "Carnivorous mammal known for scavenging behavior."
-      },
-      {
-        "name": "Ibex",
-        "habitat": "Mountainous regions",
-        "lifespan": "10-15 years (wild), up to 20 years (captivity)",
-        "fact": "Wild goat with impressive curved horns, adapted to rocky terrain."
-      },
-      {
-        "name": "Ibis",
-        "habitat": "Various habitats including wetlands and coastal areas",
-        "lifespan": "10-20 years (varies by species)",
-        "fact": "Long-legged wading bird known for its distinctive bill."
-      },
-      {
-        "name": "Jackal",
-        "habitat": "Various habitats including grasslands and forests",
-        "lifespan": "8-10 years (wild), up to 16 years (captivity)",
-        "fact": "Carnivorous mammal known for its scavenging behavior."
-      },
-      {
-        "name": "Jaguar",
-        "habitat": "Rainforests, grasslands",
-        "lifespan": "12-15 years (wild), up to 20 years (captivity)",
-        "fact": "Big cat native to the Americas, known for its powerful build and distinctive coat."
-      },
-      {
-        "name": "Jay",
-        "habitat": "Forests, woodlands",
-        "lifespan": "7-8 years",
-        "fact": "Colorful songbird known for its raucous calls and intelligence."
-      },
-      {
-        "name": "Jellyfish",
-        "habitat": "Marine environments",
-        "lifespan": "Few days to a few months",
-        "fact": "Aquatic animal with gelatinous body and stinging tentacles."
-      },
-      {
-        "name": "Kangaroo",
-        "habitat": "Grasslands, forests",
-        "lifespan": "6-8 years (wild), up to 20 years (captivity)",
-        "fact": "Marsupial known for its hopping locomotion and pouch for carrying young."
-      },
-      {
-        "name": "Kingfisher",
-        "habitat": "Rivers, lakes, ponds",
-        "lifespan": "3-6 years",
-        "fact": "Colorful bird known for its impressive diving and fishing abilities."
-      },
-      {
-        "name": "Koala",
-        "habitat": "Eucalyptus forests",
-        "lifespan": "10-15 years",
-        "fact": "Marsupial known for its arboreal lifestyle and eucalyptus diet."
-      },
-      {
-        "name": "Kookabura",
-        "habitat": "Woodlands, forests",
-        "lifespan": "15-20 years",
-        "fact": "Large kingfisher bird known for its distinctive laughing call."
-      },
-      {
-        "name": "Kouprey",
-        "habitat": "Tropical forests, grasslands",
-        "lifespan": "10-20 years",
-        "fact": "Wild ox native to Southeast Asia, critically endangered."
-      },
-      {
-        "name": "Kudu",
-        "habitat": "Savannas, woodlands",
-        "lifespan": "8-12 years",
-        "fact": "Large antelope with spiral horns, found in Africa."
-      },
-      {
-        "name": "Lapwing",
-        "habitat": "Various habitats including wetlands and grasslands",
-        "lifespan": "5-7 years",
-        "fact": "Bird known for its distinctive calls and ground nesting."
-      },
-      {
-        "name": "Lark",
-        "habitat": "Various habitats including grasslands and deserts",
-        "lifespan": "2-3 years",
-        "fact": "Small songbird known for its melodious song while in flight."
-      },
-      {
-        "name": "Lemur",
-        "habitat": "Madagascar, nearby islands",
-        "lifespan": "10-20 years (varies by species)",
-        "fact": "Primate endemic to Madagascar, known for its diverse species."
-      },
-      {
-        "name": "Leopard",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "10-15 years (wild), up to 23 years (captivity)",
-        "fact": "Big cat known for its remarkable hunting abilities and spotted coat."
-      },
-      {
-        "name": "Lion",
-        "habitat": "Grasslands, savannas",
-        "lifespan": "10-14 years (wild), up to 20 years (captivity)",
-        "fact": "Social big cat known as the 'king of the jungle.'"
-      },
-      {
-        "name": "Llama",
-        "habitat": "Mountainous regions",
-        "lifespan": "15-25 years",
-        "fact": "Domesticated mammal valued for its wool and as a pack animal."
-      },
-      {
-        "name": "Lobster",
-        "habitat": "Marine environments",
-        "lifespan": "5-70 years (varies by species)",
-        "fact": "Crustacean known for its tasty meat, often harvested for food."
-      },
-      {
-        "name": "Locust",
-        "habitat": "Various habitats including grasslands and deserts",
-        "lifespan": "Few weeks to several months",
-        "fact": "Grasshopper species that forms swarms, capable of causing crop damage."
-      },
-      {
-        "name": "Loris",
-        "habitat": "Tropical and subtropical forests",
-        "lifespan": "15-20 years (varies by species)",
-        "fact": "Nocturnal primate known for its slow movements and toxic bite."
-      },
-      {
-        "name": "Louse",
-        "habitat": "Various habitats including human environments",
-        "lifespan": "Few days to a few weeks",
-        "fact": "Small parasitic insect that infests humans and other animals."
-      },
-      {
-        "name": "Lyrebird",
-        "habitat": "Forests, woodlands",
-        "lifespan": "10-20 years",
-        "fact": "Songbird known for its ability to mimic various sounds."
-      },
-      {
-        "name": "Magpie",
-        "habitat": "Various habitats including forests and urban areas",
-        "lifespan": "3-5 years",
-        "fact": "Black and white bird known for its intelligence and vocalizations."
-      },
-      {
-        "name": "Mallard",
-        "habitat": "Various aquatic environments",
-        "lifespan": "5-10 years",
-        "fact": "Dabbling duck known for its distinctive quack and vibrant plumage."
-      },
-      {
-        "name": "Manatee",
-        "habitat": "Shallow coastal waters, rivers, estuaries",
-        "lifespan": "40-60 years",
-        "fact": "Large marine mammal also known as a sea cow, gentle and slow-moving."
-      },
-      {
-        "name": "Mandrill",
-        "habitat": "Tropical rainforests",
-        "lifespan": "20-30 years",
-        "fact": "Colorful primate known for its striking facial markings."
-      },
-      {
-        "name": "Mantis",
-        "habitat": "Various habitats including gardens and forests",
-        "lifespan": "Few months to a year",
-        "fact": "Predatory insect with unique front legs used for catching prey."
-      },
-      {
-        "name": "Marten",
-        "habitat": "Forests, woodlands",
-        "lifespan": "10-15 years (wild), up to 18 years (captivity)",
-        "fact": "Carnivorous mammal related to weasels, known for its sleek fur."
-      },
-      {
-        "name": "Meerkat",
-        "habitat": "Deserts, grasslands",
-        "lifespan": "6-7 years (wild), up to 12 years (captivity)",
-        "fact": "Small mammal known for its upright posture and social behavior."
-      },
-      {
-        "name": "Mink",
-        "habitat": "Aquatic environments, wetlands",
-        "lifespan": "3-4 years",
-        "fact": "Semi-aquatic mammal valued for its fur."
-      },
-      {
-        "name": "Mole",
-        "habitat": "Underground burrows",
-        "lifespan": "2-3 years",
-        "fact": "Burrowing mammal with adapted forelimbs for digging."
-      },
-      {
-        "name": "Mongoose",
-        "habitat": "Various habitats including grasslands and forests",
-        "lifespan": "5-7 years (wild), up to 20 years (captivity)",
-        "fact": "Carnivorous mammal known for its agility and snake-fighting abilities."
-      },
-      {
-        "name": "Monkey",
-        "habitat": "Various habitats including forests and tropical regions",
-        "lifespan": "10-50 years (varies by species)",
-        "fact": "Primate known for its intelligence, prehensile tail, and diverse species."
-      },
-      {
-        "name": "Moose",
-        "habitat": "Forests, wetlands",
-        "lifespan": "15-25 years",
-        "fact": "Large deer species with distinctive broad, palmate antlers."
-      },
-      {
-        "name": "Mosquito",
-        "habitat": "Various habitats near water bodies",
-        "lifespan": "2 weeks to 6 months (varies by species)",
-        "fact": "Small flying insect known for its blood-feeding behavior."
-      },
-      {
-        "name": "Mouse",
-        "habitat": "Various habitats including human environments",
-        "lifespan": "1-2 years (wild), up to 3 years (captivity)",
-        "fact": "Small rodent known for its rapid breeding and diverse species."
-      },
-      {
-        "name": "Mule",
-        "habitat": "Various habitats including farms and rural areas",
-        "lifespan": "15-30 years",
-        "fact": "Hybrid offspring of a male donkey and a female horse."
-      },
-      {
-        "name": "Narwhal",
-        "habitat": "Arctic waters",
-        "lifespan": "30-50 years",
-        "fact": "Marine mammal known for its long spiral tusk."
-      },
-      {
-        "name": "Newt",
-        "habitat": "Various habitats including wetlands and forests",
-        "lifespan": "5-15 years (varies by species)",
-        "fact": "Amphibian with distinct juvenile aquatic phase and adult terrestrial phase."
-      },
-      {
-        "name": "Nightingale",
-        "habitat": "Woodlands, gardens",
-        "lifespan": "2-5 years",
-        "fact": "Small songbird known for its beautiful and melodious night song."
-      },
-      {
-        "name": "Octopus",
-        "habitat": "Marine environments, sea floors",
-        "lifespan": "1-3 years (varies by species)",
-        "fact": "Cephalopod mollusk known for its intelligence and camouflage ability."
-      },
-      {
-        "name": "Okapi",
-        "habitat": "Rainforests",
-        "lifespan": "20-30 years",
-        "fact": "Endangered mammal resembling a giraffe and zebra hybrid."
-      },
-      {
-        "name": "Opossum",
-        "habitat": "Various habitats including forests and urban areas",
-        "lifespan": "1-3 years (wild), up to 4 years (captivity)",
-        "fact": "Marsupial known for its pouch and feigning death behavior."
-      },
-      {
-        "name": "Oryx",
-        "habitat": "Deserts, grasslands",
-        "lifespan": "10-15 years",
-        "fact": "Large antelope with long, straight horns, adapted to arid environments."
-      },
-      {
-        "name": "Ostrich",
-        "habitat": "Savannas, grasslands",
-        "lifespan": "30-40 years",
-        "fact": "Flightless bird known for its size and speed."
-      },
-      {
-        "name": "Otter",
-        "habitat": "Aquatic environments, rivers",
-        "lifespan": "10-15 years (wild), up to 25 years (captivity)",
-        "fact": "Semi-aquatic mammal known for its playful behavior and dense fur."
-      },
-      {
-        "name": "Owl",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "5-25 years (varies by species)",
-        "fact": "Bird of prey known for its silent flight and nocturnal hunting."
-      },
-      {
-        "name": "Oyster",
-        "habitat": "Marine environments, sea floors",
-        "lifespan": "5-20 years (varies by species)",
-        "fact": "Bivalve mollusk often cultivated for its edible flesh."
-      },
-      {
-        "name": "Panther",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "8-12 years (wild), up to 20 years (captivity)",
-        "fact": "Term used to refer to large cats with dark coats, often leopards or jaguars."
-      },
-      {
-        "name": "Parrot",
-        "habitat": "Tropical and subtropical regions",
-        "lifespan": "15-80 years (varies by species)",
-        "fact": "Colorful bird known for its vocalizations and ability to mimic human speech."
-      },
-      {
-        "name": "Partridge",
-        "habitat": "Various habitats including grasslands and woodlands",
-        "lifespan": "1-5 years (varies by species)",
-        "fact": "Game bird known for its strong flight and tasty meat."
-      },
-      {
-        "name": "Peafowl",
-        "habitat": "Forests, grasslands",
-        "lifespan": "10-20 years",
-        "fact": "Bird with colorful and ornate plumage, known for its extravagant courtship display."
-      },
-      {
-        "name": "Pelican",
-        "habitat": "Coastal areas, lakes",
-        "lifespan": "10-25 years (varies by species)",
-        "fact": "Waterbird known for its distinctive pouch and large bill."
-      },
-      {
-        "name": "Penguin",
-        "habitat": "Antarctica, Southern Hemisphere",
-        "lifespan": "15-20 years (wild), up to 30 years (captivity)",
-        "fact": "Flightless bird adapted for life in cold environments, excellent swimmers."
-      },
-      {
-        "name": "Pheasant",
-        "habitat": "Various habitats including grasslands and forests",
-        "lifespan": "1-5 years (varies by species)",
-        "fact": "Colorful game bird often hunted for its meat and feathers."
-      },
-      {
-        "name": "Pig",
-        "habitat": "Farms, rural areas",
-        "lifespan": "10-15 years",
-        "fact": "Domesticated mammal raised for meat (pork) and other products."
-      },
-      {
-        "name": "Pigeon",
-        "habitat": "Urban areas, human environments",
-        "lifespan": "3-5 years",
-        "fact": "Bird known for its homing ability and historical use in messaging."
-      },
-      {
-        "name": "Pony",
-        "habitat": "Various habitats including farms and rural areas",
-        "lifespan": "20-30 years",
-        "fact": "Small horse breed often used for riding and work."
-      },
-      {
-        "name": "Porcupine",
-        "habitat": "Various habitats including forests and deserts",
-        "lifespan": "5-7 years (wild), up to 20 years (captivity)",
-        "fact": "Rodent covered in sharp quills used for defense."
-      },
-      {
-        "name": "Porpoise",
-        "habitat": "Marine environments",
-        "lifespan": "10-15 years",
-        "fact": "Small marine mammal resembling a dolphin, known for its playful behavior."
-      },
-      {
-        "name": "Quail",
-        "habitat": "Various habitats including grasslands and woodlands",
-        "lifespan": "1-5 years (varies by species)",
-        "fact": "Small bird often hunted for its meat, eggs, and feathers."
-      },
-      {
-        "name": "Quelea",
-        "habitat": "Grasslands, savannas",
-        "lifespan": "2-3 years",
-        "fact": "Small bird known for its massive flocks and agricultural pest behavior."
-      },
-      {
-        "name": "Quetzal",
-        "habitat": "Tropical rainforests",
-        "lifespan": "6-10 years (wild), up to 20 years (captivity)",
-        "fact": "Colorful bird known for its striking plumage and cultural significance."
-      },
-      {
-        "name": "Rabbit",
-        "habitat": "Various habitats including grasslands and forests",
-        "lifespan": "2-8 years (varies by species)",
-        "fact": "Small mammal known for its hopping locomotion and breeding rate."
-      },
-      {
-        "name": "Raccoon",
-        "habitat": "Various habitats including forests and urban areas",
-        "lifespan": "2-3 years (wild), up to 5-7 years (captivity)",
-        "fact": "Adaptable mammal known for its dexterity and distinctive mask-like markings."
-      },
-      {
-        "name": "Rail",
-        "habitat": "Wetlands, marshes",
-        "lifespan": "2-4 years (wild), up to 8 years (captivity)",
-        "fact": "Small bird often found in wetlands, known for its secretive behavior."
-      },
-      {
-        "name": "Ram",
-        "habitat": "Various habitats including grasslands and mountains",
-        "lifespan": "6-12 years",
-        "fact": "Male sheep, often used to refer to adult sheep in general."
-      },
-      {
-        "name": "Rat",
-        "habitat": "Various habitats including human environments",
-        "lifespan": "1-3 years (wild), up to 2-3 years (captivity)",
-        "fact": "Rodent known for its rapid breeding and diverse species."
-      },
-      {
-        "name": "Raven",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "10-15 years (wild), up to 40 years (captivity)",
-        "fact": "Large black bird known for its intelligence and varied vocalizations."
-      },
-      {
-        "name": "Red deer",
-        "habitat": "Forests, grasslands",
-        "lifespan": "10-15 years (wild), up to 20 years (captivity)",
-        "fact": "Large deer species with reddish-brown coat, found in various regions."
-      },
-      {
-        "name": "Red panda",
-        "habitat": "Mountainous forests",
-        "lifespan": "8-12 years (wild), up to 15 years (captivity)",
-        "fact": "Small mammal known for its arboreal lifestyle and striking appearance."
-      },
-      {
-        "name": "Reindeer",
-        "habitat": "Tundra, boreal forests",
-        "lifespan": "10-15 years (wild), up to 20 years (captivity)",
-        "fact": "Species of deer adapted to cold environments, often associated with Santa Claus."
-      },
-      {
-        "name": "Rhinoceros",
-        "habitat": "Various habitats including grasslands and forests",
-        "lifespan": "35-50 years (varies by species)",
-        "fact": "Large herbivorous mammal known for its thick skin and horn."
-      },
-      {
-        "name": "Rook",
-        "habitat": "Forests, woodlands",
-        "lifespan": "5-10 years (wild), up to 20 years (captivity)",
-        "fact": "Black bird known for its sociable behavior and nest-building skills."
-      },
-      {
-        "name": "Salamander",
-        "habitat": "Various habitats including forests and wetlands",
-        "lifespan": "3-10 years (varies by species)",
-        "fact": "Amphibian known for its slender body and ability to regenerate limbs."
-      },
-      {
-        "name": "Salmon",
-        "habitat": "Freshwater rivers, oceans",
-        "lifespan": "2-7 years (varies by species)",
-        "fact": "Fish known for its migratory behavior and as a popular food source."
-      },
-      {
-        "name": "Sand Dollar",
-        "habitat": "Ocean floors",
-        "lifespan": "6-10 years",
-        "fact": "Echinoderm known for its flattened, round body and intricate pattern."
-      },
-      {
-        "name": "Sandpiper",
-        "habitat": "Coastal areas, wetlands",
-        "lifespan": "2-5 years",
-        "fact": "Small bird known for its probing behavior in search of food."
-      },
-      {
-        "name": "Sardine",
-        "habitat": "Marine environments",
-        "lifespan": "3-4 years",
-        "fact": "Small fish often found in large schools, important in fisheries."
-      },
-      {
-        "name": "Scorpion",
-        "habitat": "Various habitats including deserts and forests",
-        "lifespan": "2-10 years (varies by species)",
-        "fact": "Arachnid with a venomous sting on its tail used for defense and hunting."
-      },
-      {
-        "name": "Seahorse",
-        "habitat": "Marine environments, coral reefs",
-        "lifespan": "1-5 years (varies by species)",
-        "fact": "Fish with unique appearance and behavior, where males carry and give birth to young."
-      },
-      {
-        "name": "Seal",
-        "habitat": "Coastal areas, ice floes",
-        "lifespan": "20-30 years",
-        "fact": "Marine mammal known for its blubber and streamlined body."
-      },
-      {
-        "name": "Shark",
-        "habitat": "Marine environments, oceans",
-        "lifespan": "20-70 years (varies by species)",
-        "fact": "Apex predator fish known for its cartilaginous skeleton and diverse species."
-      },
-      {
-        "name": "Sheep",
-        "habitat": "Various habitats including farms and grasslands",
-        "lifespan": "10-12 years",
-        "fact": "Domesticated mammal raised for wool, meat (lamb), and milk."
-      },
-      {
-        "name": "Shrew",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "1-2 years",
-        "fact": "Small mammal known for its high metabolism and rapid movements."
-      },
-      {
-        "name": "Skunk",
-        "habitat": "Various habitats including forests and urban areas",
-        "lifespan": "2-4 years (wild), up to 10 years (captivity)",
-        "fact": "Mammal known for its defensive spraying behavior and distinct odor."
-      },
-      {
-        "name": "Snail",
-        "habitat": "Various habitats including gardens and forests",
-        "lifespan": "1-5 years (varies by species)",
-        "fact": "Mollusk with coiled shell, moves slowly using a muscular foot."
-      },
-      {
-        "name": "Snake",
-        "habitat": "Various habitats including grasslands and forests",
-        "lifespan": "5-30 years (varies by species)",
-        "fact": "Reptile with elongated body, many species are venomous."
-      },
-      {
-        "name": "Sparrow",
-        "habitat": "Various habitats including urban areas and grasslands",
-        "lifespan": "1-5 years (varies by species)",
-        "fact": "Small bird known for its adaptability and widespread distribution."
-      },
-      {
-        "name": "Spider",
-        "habitat": "Various habitats including forests and human environments",
-        "lifespan": "1-3 years (varies by species)",
-        "fact": "Arachnid known for its silk-spinning ability and diverse species."
-      },
-      {
-        "name": "Spoonbill",
-        "habitat": "Wetlands, coastal areas",
-        "lifespan": "5-15 years (varies by species)",
-        "fact": "Waterbird known for its distinctive spoon-shaped bill."
-      },
-      {
-        "name": "Squid",
-        "habitat": "Marine environments, oceans",
-        "lifespan": "1-2 years (varies by species)",
-        "fact": "Cephalopod mollusk known for its tentacles and ink sac."
-      },
-      {
-        "name": "Squirrel",
-        "habitat": "Various habitats including forests and urban areas",
-        "lifespan": "5-10 years (wild), up to 15 years (captivity)",
-        "fact": "Rodent known for its tree-climbing and nut-gathering behavior."
-      },
-      {
-        "name": "Starling",
-        "habitat": "Various habitats including urban areas and grasslands",
-        "lifespan": "3-5 years",
-        "fact": "Bird known for its iridescent plumage and mimicry of other sounds."
-      },
-      {
-        "name": "Stingray",
-        "habitat": "Marine environments, oceans",
-        "lifespan": "15-25 years",
-        "fact": "Cartilaginous fish with flattened body and venomous spine on tail."
-      },
-      {
-        "name": "Stinkbug",
-        "habitat": "Various habitats including gardens and fields",
-        "lifespan": "1-2 months (adult stage)",
-        "fact": "Insect known for its defensive odor and agricultural pest behavior."
-      },
-      {
-        "name": "Stork",
-        "habitat": "Wetlands, grasslands",
-        "lifespan": "20-30 years (wild), up to 40 years (captivity)",
-        "fact": "Large bird known for its distinctive long legs and beak."
-      },
-      {
-        "name": "Swallow",
-        "habitat": "Various habitats including open areas and urban environments",
-        "lifespan": "2-7 years (varies by species)",
-        "fact": "Bird known for its agile flight and insect-catching behavior."
-      },
-      {
-        "name": "Swan",
-        "habitat": "Lakes, ponds",
-        "lifespan": "10-20 years (wild), up to 30 years (captivity)",
-        "fact": "Large waterbird known for its elegance and graceful movements."
-      },
-      {
-        "name": "Tapir",
-        "habitat": "Rainforests, grasslands",
-        "lifespan": "25-30 years (varies by species)",
-        "fact": "Large mammal with a distinctive trunk-like snout and prehensile upper lip."
-      },
-      {
-        "name": "Tarsier",
-        "habitat": "Tropical rainforests",
-        "lifespan": "10-20 years",
-        "fact": "Small primate known for its large eyes and unique hunting techniques."
-      },
-      {
-        "name": "Termite",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "1-2 years (worker termites), up to 10 years (queen termite)",
-        "fact": "Social insect known for its ability to break down cellulose in wood."
-      },
-      {
-        "name": "Tiger",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "10-15 years (wild), up to 20 years (captivity)",
-        "fact": "Large carnivorous mammal known for its distinctive orange coat and strength."
-      },
-      {
-        "name": "Toad",
-        "habitat": "Various habitats including forests and wetlands",
-        "lifespan": "2-15 years (varies by species)",
-        "fact": "Amphibian known for its dry, bumpy skin and short legs for hopping."
-      },
-      {
-        "name": "Trout",
-        "habitat": "Freshwater rivers, streams",
-        "lifespan": "5-10 years",
-        "fact": "Fish species popular for recreational fishing and consumption."
-      },
-      {
-        "name": "Turkey",
-        "habitat": "Forests, grasslands",
-        "lifespan": "2-5 years",
-        "fact": "Large bird known for its role in Thanksgiving celebrations."
-      },
-      {
-        "name": "Turtle",
-        "habitat": "Various aquatic environments",
-        "lifespan": "20-100 years (varies by species)",
-        "fact": "Reptile with a bony or leathery shell, known for their slow movement."
-      },
-      {
-        "name": "Uakari",
-        "habitat": "Amazon rainforest",
-        "lifespan": "20-25 years",
-        "fact": "Primate known for its bald head and vibrant face coloration."
-      },
-      {
-        "name": "Umbrellabird",
-        "habitat": "Tropical forests",
-        "lifespan": "10-20 years",
-        "fact": "Bird known for its distinctive umbrella-like crest and vocalizations."
-      },
-      {
-        "name": "Viper",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "10-20 years",
-        "fact": "Venomous snake known for its retractable fangs and triangular head."
-      },
-      {
-        "name": "Vulture",
-        "habitat": "Various habitats including open areas and deserts",
-        "lifespan": "20-30 years",
-        "fact": "Bird of prey known for its scavenging behavior and keen sense of smell."
-      },
-      {
-        "name": "Wallaby",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "6-8 years (wild), up to 15 years (captivity)",
-        "fact": "Marsupial similar to kangaroos but smaller in size."
-      },
-      {
-        "name": "Walrus",
-        "habitat": "Arctic and subarctic regions",
-        "lifespan": "20-30 years",
-        "fact": "Marine mammal known for its tusks and blubber."
-      },
-      {
-        "name": "Wasp",
-        "habitat": "Various habitats including gardens and forests",
-        "lifespan": "2-4 weeks (worker wasps), up to several months (queen wasp)",
-        "fact": "Insect known for its role in pollination and sometimes for its stinging behavior."
-      },
-      {
-        "name": "Weasel",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "1-2 years",
-        "fact": "Small carnivorous mammal known for its slender body and hunting abilities."
-      },
-      {
-        "name": "Whale",
-        "habitat": "Marine environments, oceans",
-        "lifespan": "40-100 years (varies by species)",
-        "fact": "Large marine mammal, some of which are the largest animals on Earth."
-      },
-      {
-        "name": "Wildcat",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "2-15 years (varies by species)",
-        "fact": "Small to medium-sized feline species found in various regions."
-      },
-      {
-        "name": "Wolf",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "6-8 years (wild), up to 16 years (captivity)",
-        "fact": "Carnivorous mammal known for its pack behavior and howling vocalizations."
-      },
-      {
-        "name": "Wolverine",
-        "habitat": "Northern forests, tundra",
-        "lifespan": "7-12 years",
-        "fact": "Carnivorous mammal with powerful build, known for its strength and aggression."
-      },
-      {
-        "name": "Wombat",
-        "habitat": "Grasslands, forests",
-        "lifespan": "15-20 years",
-        "fact": "Marsupial known for its burrowing behavior and sturdy build."
-      },
-      {
-        "name": "Woodcock",
-        "habitat": "Wetlands, forests",
-        "lifespan": "1-3 years",
-        "fact": "Game bird known for its unique, long bill and distinctive mating displays."
-      },
-      {
-        "name": "Woodpecker",
-        "habitat": "Various habitats including forests and woodlands",
-        "lifespan": "4-11 years (varies by species)",
-        "fact": "Bird known for its pecking behavior on trees to find insects."
-      },
-      {
-        "name": "Worm",
-        "habitat": "Soil, moist environments",
-        "lifespan": "1-8 years (varies by species)",
-        "fact": "Invertebrate known for its cylindrical body and role in soil aeration."
-      },
-      {
-        "name": "Wren",
-        "habitat": "Various habitats including forests and grasslands",
-        "lifespan": "2-3 years",
-        "fact": "Small bird known for its energetic behavior and melodious songs."
-      },
-      {
-        "name": "Xenops",
-        "habitat": "Tropical forests",
-        "lifespan": "5-7 years",
-        "fact": "Bird known for its distinctive upward-curved bill and climbing behavior."
-      },
-      {
-        "name": "Yak",
-        "habitat": "Mountainous regions",
-        "lifespan": "20-25 years",
-        "fact": "Large bovine mammal adapted to high-altitude environments."
-      },
-      {
-        "name": "Zebra",
-        "habitat": "Grasslands, savannas",
-        "lifespan": "20-30 years",
-        "fact": "Horse-like mammal known for its black and white striped coat."
-      }
-  ]
+    "animals": [
+        {
+            "name": "Aardvark",
+            "habitat": "Found in savannas and grasslands",
+            "data": "Weighs between 110 and 180 pounds",
+            "info": "Nocturnal insectivore",
+            "fact": "Have a keen sense of smell",
+            "description": "Known for their long snouts and powerful digging abilities."
+        },
+        {
+            "name": "Aardwolf",
+            "habitat": "Found on open grasslands",
+            "data": "Mainly insectivorous",
+            "info": "Solitary and nocturnal animals",
+            "fact": "Hyena-like but feed on termites",
+            "description": "Small, insect-eating hyenas known for their termite-rich diet."
+        },
+        {
+            "name": "Albatross",
+            "habitat": "Found on the open ocean and coastlines",
+            "data": "Wingspan can reach up to 12 feet",
+            "info": "Excellent long-distance fliers",
+            "fact": "Can sleep while flying",
+            "description": "Large seabirds renowned for their impressive wingspan and long-distance flights."
+        },
+        {
+            "name": "Alligator",
+            "habitat": "Found in freshwater environments like swamps and rivers",
+            "data": "Can grow up to 13 feet in length",
+            "info": "Cold-blooded reptiles with powerful jaws",
+            "fact": "Have a lifespan of up to 35-50 years",
+            "description": "Large reptiles known for their formidable jaws and semi-aquatic lifestyles."
+        },
+        {
+            "name": "Alpaca",
+            "habitat": "Found in the Andes Mountains of South America",
+            "data": "Cousin of the llama",
+            "info": "Raised for their soft and luxurious fleece",
+            "fact": "Gentle and social animals",
+            "description": "Domesticated camelids known for their fine fleece and friendly nature."
+        },
+        {
+            "name": "Amphibian",
+            "habitat": "Found in various aquatic and terrestrial environments",
+            "data": "Can breathe through their skin",
+            "info": "Undergo metamorphosis during their life cycle",
+            "fact": "Bioindicators of environmental health",
+            "description": "Amphibians are a diverse group of animals that live both in water and on land during their life cycle."
+        },
+        {
+            "name": "Anaconda",
+            "habitat": "Found in the Amazon rainforest and other tropical regions",
+            "data": "One of the largest snake species in the world",
+            "info": "Constrictor that preys on large mammals and birds",
+            "fact": "Give birth to live young",
+            "description": "Giant constrictor snakes known for their immense size and ambush hunting."
+        },
+        {
+            "name": "Angelfish",
+            "habitat": "Found in coral reefs of the tropical oceans",
+            "data": "Come in various colorful species",
+            "info": "Popular in the aquarium trade",
+            "fact": "Known for their striking patterns",
+            "description": "Brightly colored, tropical fish admired for their vibrant appearance."
+        },
+        {
+            "name": "Anglerfish",
+            "habitat": "Found in the deep sea",
+            "data": "Females are much larger than males",
+            "info": "Use a bioluminescent lure to attract prey",
+            "fact": "Have a unique reproductive strategy",
+            "description": "Mysterious deep-sea fish known for their bioluminescent lure and bizarre mating habits."
+        },
+        {
+            "name": "Ant",
+            "habitat": "Found in colonies underground and on the surface",
+            "data": "Strong and highly organized social insects",
+            "info": "Communicate using pheromones",
+            "fact": "Can carry objects many times their own body weight",
+            "description": "Highly organized social insects that live in colonies and work together to accomplish tasks."
+        },
+        {
+            "name": "Anteater",
+            "habitat": "Found in forests and grasslands of Central and South America",
+            "data": "Specialized tongue for eating ants and termites",
+            "info": "Solitary and primarily nocturnal",
+            "fact": "Can consume thousands of insects in a day",
+            "description": "Unique mammals with long snouts and tongues adapted for eating ants and termites."
+        },
+        {
+            "name": "Antelope",
+            "habitat": "Found in a variety of grassland and woodland habitats",
+            "data": "Fast runners and agile jumpers",
+            "info": "Many species exhibit sexual dimorphism",
+            "fact": "Herbivorous and have a keen sense of hearing",
+            "description": "Graceful herbivores known for their speed and agility in grassland ecosystems."
+        },
+        {
+            "name": "Antlion",
+            "habitat": "Found in sandy environments",
+            "data": "Larvae create pitfall traps for prey",
+            "info": "Adult resemble dragonflies",
+            "fact": "Skilled ambush predators",
+            "description": "Insect species known for their unique predatory behavior and larval pitfall traps."
+        },
+        {
+            "name": "Ape",
+            "habitat": "Found in tropical rainforests and a few other environments",
+            "data": "Closest relatives to humans",
+            "info": "Species include gorillas, chimpanzees, bonobos, and orangutans",
+            "fact": "Have complex social structures",
+            "description": "Highly intelligent primates known for their close genetic relation to humans."
+        },
+        {
+            "name": "Aphid",
+            "habitat": "Found on plants and trees",
+            "data": "Small, soft-bodied insects",
+            "info": "Reproduce rapidly through a process called parthenogenesis",
+            "fact": "Pests to many crops and garden plants",
+            "description": "Tiny insects known for their rapid reproduction and ability to damage plants."
+        },
+        {
+            "name": "Armadillo",
+            "habitat": "Found in a range of environments, from forests to grasslands",
+            "data": "Protected by a bony armor-like shell",
+            "info": "Good swimmers and diggers",
+            "fact": "Primarily insectivorous",
+            "description": "Small mammals known for their unique armored shells and adaptable habitats."
+        },
+        {
+            "name": "Asp",
+            "habitat": "Found in dry and rocky areas of Africa and the Middle East",
+            "data": "Venomous snake species",
+            "info": "Associated with ancient Egyptian mythology",
+            "fact": "Venom contains potent neurotoxins",
+            "description": "Venomous snakes known for their historical significance in ancient Egyptian culture."
+        },
+
+        {
+            "name": "Baboon",
+            "habitat": "Found in savannas and open woodlands",
+            "data": "Omnivorous and highly social primates",
+            "info": "Distinctive dog-like snouts and colorful bottoms",
+            "fact": "Known for their complex social hierarchies",
+            "description": "Old World monkeys known for their distinctive appearance and social behaviors."
+        },
+        {
+            "name": "Badger",
+            "habitat": "Found in a variety of habitats, including forests and grasslands",
+            "data": "Burrowing mammals with powerful claws",
+            "info": "Solitary and primarily nocturnal hunters",
+            "fact": "Known for their digging prowess",
+            "description": "Stout-bodied mammals recognized for their burrowing and hunting skills."
+        },
+        {
+            "name": "Bandicoot",
+            "habitat": "Found in forests, grasslands, and coastal areas of Australia and nearby islands",
+            "data": "Marsupials with a distinctive long snout",
+            "info": "Primarily insectivorous and small in size",
+            "fact": "Have a pouch for carrying their young",
+            "description": "Small marsupials known for their unique appearance and pouches."
+        },
+        {
+            "name": "Barnacle",
+            "habitat": "Found attached to hard surfaces in aquatic environments",
+            "data": "Sessile crustaceans with a shell-like structure",
+            "info": "Filter feeders that capture food particles from water",
+            "fact": "Have one of the longest penises relative to body size in the animal kingdom",
+            "description": "Small, stationary crustaceans that live in marine environments."
+        },
+        {
+            "name": "Barracuda",
+            "habitat": "Found in tropical and subtropical oceans worldwide",
+            "data": "Fast-swimming predators with sharp teeth",
+            "info": "Ambush hunters that prey on smaller fish",
+            "fact": "Known for their impressive swimming speed",
+            "description": "Sleek and fearsome-looking fish that inhabit warm ocean waters."
+        },
+        {
+            "name": "Basilisk",
+            "habitat": "Found in tropical rainforests of Central and South America",
+            "data": "Also known as the Jesus Christ Lizard due to its ability to run on water",
+            "info": "Insectivorous and highly agile reptiles",
+            "fact": "Can reach speeds of up to 5 miles per hour on water",
+            "description": "Small, arboreal lizards known for their unique running-on-water ability."
+        },
+        {
+            "name": "Bass",
+            "habitat": "Found in freshwater bodies like lakes, rivers, and ponds",
+            "data": "Popular game fish with various species",
+            "info": "Carnivorous and known for their strong fighting ability",
+            "fact": "Fishing is a popular recreational activity",
+            "description": "Highly sought-after freshwater fish known for their sportfishing appeal."
+        },
+        {
+            "name": "Bat",
+            "habitat": "Found in various habitats, including caves, forests, and urban areas",
+            "data": "The only mammals capable of sustained flight",
+            "info": "Primarily insectivorous, but some species feed on fruit or nectar",
+            "fact": "Play crucial roles in pollination and insect control",
+            "description": "Diverse flying mammals with adaptations for nocturnal life and echolocation."
+        },
+        {
+            "name": "Bear",
+            "habitat": "Found in a wide range of habitats, from forests to tundra",
+            "data": "Large, omnivorous mammals with hibernation capabilities",
+            "info": "Various species, including polar, grizzly, and black",
+            "fact": "Symbolically significant in many cultures",
+            "description": "Iconic mammals known for their strength, adaptability, and hibernation habits."
+        },
+        {
+            "name": "Beaver",
+            "habitat": "Found in freshwater environments with access to wood for dam building",
+            "data": "Rodents known for building dams and lodges",
+            "info": "Herbivorous and capable swimmers",
+            "fact": "Ecosystem engineers, shaping their habitats",
+            "description": "Industrious rodents known for their dam-building and water-management skills."
+        },
+        {
+            "name": "Bedbug",
+            "habitat": "Found in human dwellings, especially beds and furniture",
+            "data": "Blood-feeding insects that cause skin irritation in humans",
+            "info": "Nocturnal and highly resistant to pesticides",
+            "fact": "Can survive for months without feeding",
+            "description": "Parasitic insects that infest human living spaces and feed on blood."
+        },
+        {
+            "name": "Bee",
+            "habitat": "Found in various ecosystems, including gardens and meadows",
+            "data": "Important pollinators crucial for plant reproduction",
+            "info": "Social insects with a caste system (queen, workers, drones)",
+            "fact": "Produce honey and beeswax",
+            "description": "Essential insects known for their role in pollination and honey production."
+        },
+        {
+            "name": "Beetle",
+            "habitat": "Found in diverse terrestrial environments worldwide",
+            "data": "The largest order of insects with over 350,000 species",
+            "info": "Hard exoskeleton and chewing mouthparts",
+            "fact": "Exhibit incredible diversity in size, shape, and behavior",
+            "description": "Diverse group of insects known for their varied forms and ecological roles."
+        },
+        {
+            "name": "Bird",
+            "habitat": "Found in virtually all terrestrial and aquatic environments",
+            "data": "Warm-blooded vertebrates with feathers and beaks",
+            "info": "Diverse species with various adaptations for flight and terrestrial life",
+            "fact": "Descendants of theropod dinosaurs",
+            "description": "Highly diverse vertebrates known for their ability to fly and inhabit diverse habitats."
+        },
+        {
+            "name": "Bison",
+            "habitat": "Found in grasslands and open plains of North America",
+            "data": "Large, herbivorous mammals with shaggy fur and humps",
+            "info": "Social animals that once roamed in massive herds",
+            "fact": "Nearly driven to extinction in the 19th century",
+            "description": "Iconic American mammals known for their historical significance and size."
+        },
+        {
+            "name": "Blackbird",
+            "habitat": "Found in a variety of habitats, including woodlands and urban areas",
+            "data": "Omnivorous songbirds known for their melodious calls",
+            "info": "Common are known for their distinctive black plumage",
+            "fact": "Celebrated in literature and folklore",
+            "description": "Passerine birds admired for their songs and adaptability."
+        },
+        {
+            "name": "Boa",
+            "habitat": "Found in tropical and subtropical regions of the Americas",
+            "data": "Non-venomous constrictor snakes with muscular bodies",
+            "info": "Ambush predators that primarily feed on rodents and birds",
+            "fact": "Some species give birth to live young",
+            "description": "Constrictor snakes known for their strength and diverse species."
+        },
+        {
+            "name": "Boar",
+            "habitat": "Found in various habitats, including forests and grasslands",
+            "data": "Wild swine with distinctive tusks",
+            "info": "Omnivorous and often forage for food in the ground",
+            "fact": "Known for their aggressive behavior when threatened",
+            "description": "Wild pigs known for their adaptability and tusks."
+        },
+        {
+            "name": "Bobcat",
+            "habitat": "Found in a range of North American habitats, including forests and deserts",
+            "data": "Medium-sized, solitary cats with distinctive spots and tufted ears",
+            "info": "Skilled hunters and are known for their elusive nature",
+            "fact": "Have a wide range of vocalizations",
+            "description": "Native North American wildcats known for their adaptability and stealthy hunting."
+        },
+        {
+            "name": "Bobolink",
+            "habitat": "Found in grasslands and meadows of North America",
+            "data": "Songbirds with striking black-and-white breeding plumage",
+            "info": "Migratory birds that travel long distances between breeding and wintering grounds",
+            "fact": "Known for their bubbly, metallic song",
+            "description": "Migratory songbirds celebrated for their striking appearance and melodious songs."
+        },
+        {
+            "name": "Bonobo",
+            "habitat": "Found in tropical rainforests of the Democratic Republic of the Congo",
+            "data": "Close relatives of chimpanzees and humans",
+            "info": "Known for their peaceful and matriarchal social structure",
+            "fact": "Resolve conflicts through sexual behaviors",
+            "description": "Great apes known for their unique social dynamics and close genetic relationship to humans."
+        },
+        {
+            "name": "Bovid",
+            "habitat": "Found in diverse habitats worldwide, including grasslands and mountains",
+            "data": "A family of cloven-hoofed mammals, including cattle, sheep, and goats",
+            "info": "Herbivorous animals known for their economic importance to humans",
+            "fact": "Have specialized stomachs for digesting plant material",
+            "description": "Diverse and economically significant mammals known for their cloven hooves."
+        },
+        {
+            "name": "Buffalo",
+            "habitat": "Found in grasslands and savannas of Africa and North America",
+            "data": "Large herbivorous mammals with distinctive horns",
+            "info": "Social animals that often form large herds",
+            "fact": "Cape are considered one of Africa's most dangerous animals",
+            "description": "Robust and social mammals known for their iconic horns and herding behavior."
+        },
+        {
+            "name": "Bug",
+            "habitat": "Found in various terrestrial and aquatic environments",
+            "data": "A colloquial term often used to refer to various insects",
+            "info": "Insects belong to the most diverse group of animals on Earth",
+            "fact": "Some, like bedbugs and stink, are known pests",
+            "description": "The term is informally used to describe various insects from different orders."
+        },
+        {
+            "name": "Butterfly",
+            "habitat": "Found in diverse terrestrial environments with flowering plants",
+            "data": "Insects known for their vibrant wing patterns and proboscises",
+            "info": "Undergo complete metamorphosis during their life cycle",
+            "fact": "Monarch are famous for their long-distance migrations",
+            "description": "Colorful insects celebrated for their beauty and role in pollination."
+        },
+        {
+            "name": "Buzzard",
+            "habitat": "Found in a variety of habitats, including woodlands and open country",
+            "data": "Birds of prey known for their soaring flight and sharp talons",
+            "info": "Opportunistic hunters, feeding on small mammals and carrion",
+            "fact": "Common are often associated with folklore and superstitions",
+            "description": "Raptors known for their ability to glide effortlessly in search of prey."
+        }
+    ]
 }
