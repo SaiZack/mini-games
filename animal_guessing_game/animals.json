@@ -344,6 +344,625 @@
             "info": "Opportunistic hunters, feeding on small mammals and carrion",
             "fact": "Common are often associated with folklore and superstitions",
             "description": "Raptors known for their ability to glide effortlessly in search of prey."
+        },
+
+        {
+            "name": "Camel",
+            "habitat": "Found in arid desert regions of Africa and Asia",
+            "data": "Large, hoofed mammals with humps on their backs",
+            "info": "Well-adapted to hot and dry environments",
+            "fact": "Can store water and survive long periods without drinking",
+            "description": "Known for their ability to withstand harsh desert conditions and are often used as pack animals."
+        },
+        {
+            "name": "Canary",
+            "habitat": "Originally found in the Islands, but domesticated are kept worldwide",
+            "data": "Small songbirds known for their melodious singing",
+            "info": "Popular pets and known for their vibrant plumage",
+            "fact": "Male are typically better singers than females",
+            "description": "Small songbirds admired for their cheerful songs and colorful feathers."
+        },
+        {
+            "name": "Canid",
+            "habitat": "Found in various habitats worldwide, including forests, grasslands, and urban areas",
+            "data": "Members of the dog family, including wolves, foxes, and domestic dogs",
+            "info": "Carnivorous mammals with a strong sense of smell and social behavior",
+            "fact": "Wolves are the largest and often live in packs",
+            "description": "Diverse group of carnivorous mammals known for their adaptability and social structures."
+        },
+        {
+            "name": "Canidae",
+            "habitat": "Found in various terrestrial habitats worldwide",
+            "data": "Family of carnivorous mammals that includes dogs, wolves, foxes, and more",
+            "info": "Members have a shared evolutionary history and traits",
+            "fact": "The gray wolf is the largest species",
+            "description": "Family of carnivorous mammals known for their diverse species and shared characteristics."
+        },
+        {
+            "name": "Capybara",
+            "habitat": "Found in South America, particularly in wetlands and near water sources",
+            "data": "Large rodents with a semi-aquatic lifestyle",
+            "info": "Highly social and often found in groups",
+            "fact": "Excellent swimmers and can stay submerged for several minutes",
+            "description": "The world's largest rodents, known for their aquatic habits and sociable nature."
+        },
+        {
+            "name": "Cardinal",
+            "habitat": "Found in various habitats in North and South America",
+            "data": "Songbirds known for their vibrant red plumage (males)",
+            "info": "Territorial and have distinctive songs",
+            "fact": "Northern are the state bird of several U.S. states",
+            "description": "Colorful songbirds celebrated for their striking appearance and melodic calls."
+        },
+        {
+            "name": "Caribou",
+            "habitat": "Found in the Arctic and subarctic regions of North America and Eurasia",
+            "data": "Large, herbivorous mammals related to reindeer",
+            "info": "Undertake long migrations and are well-adapted to cold climates",
+            "fact": "Have specialized hooves for digging through snow to find food",
+            "description": "Northern-dwelling ungulates known for their migrations and resilience in harsh environments."
+        },
+        {
+            "name": "Carp",
+            "habitat": "Found in freshwater environments like lakes, rivers, and ponds",
+            "data": "Omnivorous fish known for their barbels (whisker-like structures)",
+            "info": "Commonly kept in ponds and used in aquaculture",
+            "fact": "Have been domesticated for centuries and come in various species",
+            "description": "Freshwater fish species known for their adaptability and importance in aquaculture."
+        },
+        {
+            "name": "Cat",
+            "habitat": "Domestic are found worldwide, while wild inhabit various ecosystems",
+            "data": "Carnivorous mammals known for their agility and hunting skills",
+            "info": "Have been domesticated for thousands of years and are popular pets",
+            "fact": "The cheetah is the fastest land animal and a type of it",
+            "description": "Diverse feline species known for their grace, independence, and hunting abilities."
+        },
+        {
+            "name": "Caterpillar",
+            "habitat": "Found on plants and trees in various ecosystems",
+            "data": "Larval stage of butterflies and moths",
+            "info": "Undergo metamorphosis to become adult insects",
+            "fact": "Some are brightly colored to deter predators",
+            "description": "The immature stages of butterflies and moths, known for their transformation into winged adults."
+        },
+        {
+            "name": "Catfish",
+            "habitat": "Found in freshwater environments like rivers, lakes, and ponds",
+            "data": "Fish with distinctive whisker-like barbels around the mouth",
+            "info": "Bottom-dwelling and often nocturnal",
+            "fact": "Channel is a popular species for angling and aquaculture",
+            "description": "Freshwater fish known for their unique appearance and behavior."
+        },
+        {
+            "name": "Catshark",
+            "habitat": "Found in various marine environments, including coastal waters",
+            "data": "Small sharks belonging to the Scyliorhinidae family",
+            "info": "Named for their cat-like eyes and slender bodies",
+            "fact": "Many species are harmless to humans",
+            "description": "A group of small, cat-eyed sharks known for their unobtrusive presence in the ocean."
+        },
+        {
+            "name": "Cattle",
+            "habitat": "Domesticated and found in various agricultural settings worldwide",
+            "data": "Large herbivorous mammals raised for meat, milk, and other products",
+            "info": "Have been bred for different purposes, including beef and dairy production",
+            "fact": "Important livestock animals in many cultures",
+            "description": "Domesticated bovines with diverse breeds used for various agricultural purposes."
+        },
+        {
+            "name": "Centipede",
+            "habitat": "Found in terrestrial environments, including leaf litter and soil",
+            "data": "Arthropods with many jointed legs and segmented bodies",
+            "info": "Predators that use venom to subdue their prey",
+            "fact": "Despite their name, typically have fewer than 100 legs",
+            "description": "Arthropods known for their numerous legs and carnivorous hunting behavior."
+        },
+        {
+            "name": "Cephalopod",
+            "habitat": "Found in marine environments, from shallow coastal waters to the deep sea",
+            "data": "Mollusks with bilateral symmetry and prominent heads",
+            "info": "Include squids, octopuses, and cuttlefish",
+            "fact": "Some can change color and texture for camouflage",
+            "description": "Marine mollusks known for their intelligence and unique adaptations."
+        },
+        {
+            "name": "Chameleon",
+            "habitat": "Found in a variety of terrestrial environments, especially in tropical regions",
+            "data": "Lizards with specialized color-changing abilities",
+            "info": "Use color changes for communication and camouflage",
+            "fact": "Have independently mobile eyes, allowing for a wide field of vision",
+            "description": "Unique reptiles known for their remarkable color-changing and eye mobility."
+        },
+        {
+            "name": "Cheetah",
+            "habitat": "Found in grasslands and savannas of Africa",
+            "data": "Large cats known for their incredible speed and agility",
+            "info": "The fastest land animals, capable of short bursts of speed",
+            "fact": "Populations are threatened by habitat loss and poaching",
+            "description": "Iconic big cats known for their unmatched sprinting abilities in the animal kingdom."
+        },
+        {
+            "name": "Chickadee",
+            "habitat": "Found in various forested and wooded habitats in North America",
+            "data": "Small songbirds with distinctive black caps and cheerful calls",
+            "info": "Known for their acrobatic foraging behavior",
+            "fact": "Black-capped are the state bird of Maine and Massachusetts",
+            "description": "Small, cheerful songbirds admired for their distinctive markings and vocalizations."
+        },
+        {
+            "name": "Chicken",
+            "habitat": "Domesticated and found in farms and poultry facilities worldwide",
+            "data": "Birds raised for their meat and eggs",
+            "info": "Come in various breeds and colors",
+            "fact": "The red junglefowl is the wild ancestor of the domestic",
+            "description": "Domesticated birds known for their role in agriculture and as a source of food."
+        },
+        {
+            "name": "Chimpanzee",
+            "habitat": "Found in tropical rainforests and forested regions of Africa",
+            "data": "Closest relatives to humans, sharing over 98% of their DNA",
+            "info": "Have complex social structures and use tools for various purposes",
+            "fact": "Highly intelligent and capable of problem-solving",
+            "description": "Great apes known for their remarkable cognitive abilities and genetic similarity to humans."
+        },
+        {
+            "name": "Chinchilla",
+            "habitat": "Originally found in the Andes Mountains of South America",
+            "data": "Small rodents known for their soft and dense fur",
+            "info": "Crepuscular and active during dawn and dusk",
+            "fact": "Fur is highly valued in the fashion industry",
+            "description": "Small, fluffy rodents known for their luxurious fur and adorable appearance."
+        },
+        {
+            "name": "Chipmunk",
+            "habitat": "Found in North America, primarily in wooded areas",
+            "data": "Small rodents related to squirrels",
+            "info": "Known for their cheek pouches for storing food",
+            "fact": "Eastern are the most common chipmunk species in North America",
+            "description": "Small, energetic rodents known for their bustling behavior and cheeky appearance."
+        },
+        {
+            "name": "Cicada",
+            "habitat": "Found in forests and woodlands, especially in temperate regions",
+            "data": "Insects known for their loud and distinctive buzzing calls",
+            "info": "Have a life cycle that includes long periods underground",
+            "fact": "Periodical emerge in large numbers at regular intervals",
+            "description": "Insects known for their unique life cycles and noisy summer choruses."
+        },
+        {
+            "name": "Clam",
+            "habitat": "Found in various aquatic environments, from freshwater to saltwater",
+            "data": "Bivalve mollusks with two hinged shells",
+            "info": "Gilter feeders that extract nutrients from water",
+            "fact": "Quahog can live for a very long time and are often used in chowder",
+            "description": "Shellfish known for their simple yet efficient filter-feeding behavior."
+        },
+        {
+            "name": "Clownfish",
+            "habitat": "Found in the warm waters of the Indian and Pacific Oceans",
+            "data": "Small fish with bright colors and symbiotic relationships with sea anemones",
+            "info": "Protandrous hermaphrodites, with males turning into females",
+            "fact": "Nemo, the famous from the movie 'Finding Nemo,' is a species",
+            "description": "Vibrant marine fish known for their association with sea anemones and distinctive markings."
+        },
+        {
+            "name": "Cobra",
+            "habitat": "Found in a variety of habitats, from forests to grasslands, in Africa and Asia",
+            "data": "Venomous snakes known for their hooded necks and upright posture",
+            "info": "Capable of delivering potent neurotoxic venom through their fangs",
+            "fact": "The Indian is revered in Hindu mythology",
+            "description": "Venomous snakes known for their iconic hooded display and potentially lethal bites."
+        },
+        {
+            "name": "Cockroach",
+            "habitat": "Found worldwide in various urban and natural environments",
+            "data": "Resilient insects with flattened bodies and quick movements",
+            "info": "Scavengers and can adapt to diverse conditions",
+            "fact": "One of the most common household pests",
+            "description": "Notorious insects known for their adaptability and ability to thrive in various environments."
+        },
+        {
+            "name": "Cod",
+            "habitat": "Found in cold waters of the Atlantic Ocean and other regions",
+            "data": "Marine fish known for their mild-flavored white flesh",
+            "info": "A popular fish species in the culinary world",
+            "fact": "Stocks have faced overfishing and sustainability challenges",
+            "description": "Fish known for their importance in the fishing industry and culinary use."
+        },
+        {
+            "name": "Condor",
+            "habitat": "Found in mountainous regions of North and South America",
+            "data": "Large birds of prey known for their soaring flight",
+            "info": "Scavengers and feed on carrion",
+            "fact": "Condors are critically endangered, with conservation efforts in place",
+            "description": "Impressive vultures known for their size and role in cleaning up the environment."
+        },
+        {
+            "name": "Constrictor",
+            "habitat": "Found in various terrestrial environments, from forests to grasslands",
+            "data": "Snakes known for their constriction method of subduing prey",
+            "info": "Snakes include boas and pythons",
+            "fact": "Boa are non-venomous and rely on powerful muscles to squeeze their prey",
+            "description": "Snakes are powerful predators known for their ability to suffocate and consume prey."
+        },
+        {
+            "name": "Coral",
+            "habitat": "Found in marine environments, particularly in reefs",
+            "data": "Marine invertebrates that form colonies with calcium carbonate skeletons",
+            "info": "Reefs are crucial ecosystems with high biodiversity",
+            "fact": "Reefs are threatened by climate change, ocean acidification, and human activities",
+            "description": "Essential marine organisms known for creating intricate reef structures and supporting diverse marine life."
+        },
+        {
+            "name": "Cougar",
+            "habitat": "Found in various habitats, including forests and mountains, throughout the Americas",
+            "data": "Large cats also known as pumas or mountain lions",
+            "info": "Solitary and elusive predators",
+            "fact": "They have the largest range of any wild terrestrial mammal in the Western Hemisphere",
+            "description": "Stealthy big cats known for their adaptability and wide distribution in the Americas."
+        },
+        {
+            "name": "Cow",
+            "habitat": "Domesticated and found in farms and ranches worldwide",
+            "data": "Large herbivorous mammals raised for meat, milk, and other products",
+            "info": "Important livestock animals for agriculture",
+            "fact": "Different cattle breeds have specific purposes, such as beef or dairy production",
+            "description": "Domesticated bovines known for their utility in agriculture and as sources of food and dairy."
+        },
+        {
+            "name": "Coyote",
+            "habitat": "Found in a variety of habitats, including forests, grasslands, and urban areas, across North America",
+            "data": "Canine mammals related to wolves and domestic dogs",
+            "info": "Adaptable and often considered opportunistic predators",
+            "fact": "They are known for their distinctive howling calls",
+            "description": "Highly adaptable canines known for their resourcefulness and vocalizations."
+        },
+        {
+            "name": "Crab",
+            "habitat": "Found in marine and freshwater environments worldwide",
+            "data": "Crustaceans with a hard exoskeleton and ten legs",
+            "info": "Diverse and come in various shapes and sizes",
+            "fact": "Hermit use discarded shells for protection",
+            "description": "Arthropods known for their sideways walking and the variety of species they encompass."
+        },
+        {
+            "name": "Crane",
+            "habitat": "Found in wetlands, marshes, and grasslands in various regions",
+            "data": "Large wading birds with long necks and legs",
+            "info": "Known for their elaborate courtship dances",
+            "fact": "The whooping is one of the rarest bird species in North America",
+            "description": "Elegant birds celebrated for their grace and intricate courtship displays."
+        },
+        {
+            "name": "Crawdad",
+            "habitat": "Found in freshwater bodies like rivers, streams, and lakes",
+            "data": "Freshwater crustaceans also known as crayfish or crawfish",
+            "info": "Omnivorous and serve as both predators and scavengers",
+            "fact": "They are commonly used in Cajun and Creole cuisine",
+            "description": "Freshwater crustaceans known for their culinary significance and ecological roles."
+        },
+        {
+            "name": "Crayfish",
+            "habitat": "Found in freshwater environments, such as rivers, ponds, and streams",
+            "data": "Small crustaceans closely related to lobsters",
+            "info": "Known for their distinctive clawed appendages",
+            "fact": "Popular choice for freshwater aquariums",
+            "description": "Freshwater crustaceans known for their adaptability and unique appearance."
+        },
+        {
+            "name": "Cricket",
+            "habitat": "Found in grassy areas and meadows worldwide",
+            "data": "Orthopteran insects known for their chirping sounds",
+            "info": "Male produce sounds to attract females",
+            "fact": "Often used as live bait for fishing",
+            "description": "Insects known for their musical chirping and use in various cultural practices."
+        },
+        {
+            "name": "Crocodile",
+            "habitat": "Found in freshwater and saltwater habitats in Africa, Asia, the Americas, and Australia",
+            "data": "Large reptiles with elongated bodies and powerful jaws",
+            "info": "Carnivorous predators and apex predators in their ecosystems",
+            "fact": "The saltwater is the largest living reptile",
+            "description": "Formidable reptiles known for their predatory prowess and prehistoric lineage."
+        },
+        {
+            "name": "Crow",
+            "habitat": "Found in a wide range of habitats, from urban areas to forests",
+            "data": "Birds known for their all-black plumage and intelligence",
+            "info": "Highly adaptable and opportunistic feeders",
+            "fact": "They are often associated with myths and folklore in various cultures",
+            "description": "Intelligent birds recognized for their dark plumage and adaptability to diverse environments."
+        },
+        {
+            "name": "Cuckoo",
+            "habitat": "Found in various wooded and forested habitats worldwide",
+            "data": "Birds known for their distinct call, which gives them their name",
+            "info": "Brood parasites, laying their eggs in other birds' nests",
+            "fact": "The common is famous for its role in the clock's call",
+            "description": "Birds celebrated for their unique calls and unusual reproductive behavior."
+        },
+
+        {
+            "name": "Damselfly",
+            "habitat": "Found near freshwater habitats, including ponds, streams, and rivers",
+            "data": "Insects related to dragonflies and known for their delicate appearance",
+            "info": "Agile flyers and skilled hunters of smaller insects",
+            "fact": "They are ancient insects, with fossil records dating back over 250 million years",
+            "description": "Delicate and ancient insects known for their graceful flight and predatory behavior."
+        },
+        {
+            "name": "Deer",
+            "habitat": "Found in various habitats, including forests, grasslands, and mountains",
+            "data": "Hoofed mammals belonging to the Cervidae family",
+            "info": "Herbivorous and primarily graze on vegetation",
+            "fact": "Male, known as bucks, often grow antlers used for mating displays and combat",
+            "description": "Elegant and widely distributed mammals known for their graceful appearance and antlered males."
+        },
+        {
+            "name": "Dingo",
+            "habitat": "Found in diverse Australian ecosystems, including deserts and forests",
+            "data": "Wild dogs believed to have descended from domesticated dogs",
+            "info": "Opportunistic hunters and scavengers",
+            "fact": "They play a significant role in Australian Indigenous culture and mythology",
+            "description": "Iconic Australian predators known for their adaptability and cultural significance."
+        },
+        {
+            "name": "Dinosaur",
+            "habitat": "Extinct, but once found in various terrestrial environments worldwide",
+            "data": "Prehistoric reptiles that ruled the Earth for millions of years",
+            "info": "Included diverse species, from massive herbivores to agile carnivores",
+            "fact": "The largest known was Argentinosaurus, a long-necked herbivore",
+            "description": "A diverse group of ancient reptiles that once dominated the planet."
+        },
+        {
+            "name": "Dog",
+            "habitat": "Domesticated and found in various human environments worldwide",
+            "data": "Canine mammals known for their loyalty and companionship",
+            "info": "Come in various breeds, each with unique characteristics",
+            "fact": "The Basenji breed is known as the 'barkless'",
+            "description": "Beloved domesticated animals celebrated for their diverse breeds and roles as loyal companions."
+        },
+        {
+            "name": "Dolphin",
+            "habitat": "Found in oceans and seas worldwide, in both coastal and open water areas",
+            "data": "Marine mammals known for their intelligence and playful behavior",
+            "info": "Use echolocation to communicate and locate prey",
+            "fact": "The bottlenose is one of the most well-known species",
+            "description": "Highly intelligent marine mammals admired for their social interactions and acrobatic displays."
+        },
+        {
+            "name": "Donkey",
+            "habitat": "Domesticated and found in various agricultural and rural settings worldwide",
+            "data": "Equids related to horses and zebras",
+            "info": "Used for transportation and as working animals",
+            "fact": "They are known for their resilience and ability to carry heavy loads",
+            "description": "Domesticated animals valued for their strength and contributions to agriculture and transportation."
+        },
+        {
+            "name": "Dormouse",
+            "habitat": "Found in woodlands and forests in Europe, Asia, and Africa",
+            "data": "Small rodents known for their hibernation habits",
+            "info": "Primarily herbivorous and feed on nuts, fruits, and insects",
+            "fact": "They are featured in Lewis Carroll's 'Alice's Adventures in Wonderland'",
+            "description": "Small, adorable rodents known for their hibernation behavior and literary connections."
+        },
+        {
+            "name": "Dove",
+            "habitat": "Found in a variety of habitats, including woodlands, urban areas, and open country",
+            "data": "Birds known for their gentle cooing calls",
+            "info": "Often associated with peace and love symbolism",
+            "fact": "The rock is the wild ancestor of the domestic pigeon",
+            "description": "Peaceful birds celebrated for their soothing calls and symbolic significance."
+        },
+        {
+            "name": "Dragon",
+            "habitat": "Legendary creatures from folklore and mythology",
+            "data": "Mythical reptilian creatures often depicted with wings and the ability to breathe fire",
+            "info": "Appear in the folklore of cultures worldwide, each with unique characteristics",
+            "fact": "Have been featured in countless stories, movies, and works of art",
+            "description": "Mythical creatures known for their role in legends and fantasy tales, often as powerful and fearsome beings."
+        },
+        {
+            "name": "Dragonfly",
+            "habitat": "Found near freshwater habitats, including ponds, lakes, and streams",
+            "data": "Insects related to damselflies and known for their agile flight",
+            "info": "Efficient predators of flying insects",
+            "fact": "They have a remarkable lifespan and undergo incomplete metamorphosis",
+            "description": "Agile and predatory insects known for their striking appearance and aerial hunting skills."
+        },
+        {
+            "name": "Duck",
+            "habitat": "Found in a variety of aquatic environments, including lakes, rivers, and wetlands",
+            "data": "Waterfowl known for their distinctive bills and webbed feet",
+            "info": "Omnivorous and feed on aquatic plants, insects, and small fish",
+            "fact": "Mallards are one of the most common and widely recognized species",
+            "description": "Waterfowl known for their adaptability to aquatic environments and diverse species found worldwide."
+        },
+
+        {
+            "name": "Eagle",
+            "habitat": "Found in various habitats, including mountains, forests, and open plains",
+            "data": "Birds of prey known for their sharp talons and keen eyesight",
+            "info": "They are apex predators and often symbolize strength and freedom",
+            "fact": "The bald eagle is the national bird and symbol of the United States",
+            "description": "Majestic birds of prey known for their hunting prowess and symbolism."
+        },
+        {
+            "name": "Earthworm",
+            "habitat": "Found in soil and underground, contributing to soil health",
+            "data": "Annelid worms important for soil aeration and nutrient cycling",
+            "info": "They have a cylindrical body with segments and no legs",
+            "fact": "Charles Darwin studied them and their impact on soil",
+            "description": "Essential soil-dwelling organisms that play a vital role in maintaining soil fertility."
+        },
+        {
+            "name": "Earwig",
+            "habitat": "Found in various terrestrial environments, often in dark and damp places",
+            "data": "Insects known for their distinctive pincer-like appendages",
+            "info": "They are omnivorous and feed on a variety of organic matter",
+            "fact": "They are nocturnal and use their pincers for defense and mating displays",
+            "description": "Insects recognized for their unique pincers and nocturnal habits."
+        },
+        {
+            "name": "Echidna",
+            "habitat": "Found in Australia and New Guinea, in a range of habitats from forests to deserts",
+            "data": "Mammals known as monotremes, laying eggs instead of giving birth to live young",
+            "info": "They are covered in spines and have long, sticky tongues for feeding on ants and termites",
+            "fact": "One of only two monotreme species in the world",
+            "description": "Unique egg-laying mammals known for their spiky appearance and specialized feeding adaptations."
+        },
+        {
+            "name": "Eel",
+            "habitat": "Found in both freshwater and saltwater environments, including rivers, lakes, and oceans",
+            "data": "Fish with elongated bodies and a snake-like appearance",
+            "info": "They are known for their catadromous migration, traveling from freshwater to the ocean to spawn",
+            "fact": "Some species can live for decades before making their long migration to spawn",
+            "description": "Fascinating fish with complex life cycles and adaptations for different aquatic environments."
+        },
+        {
+            "name": "Egret",
+            "habitat": "Found in wetlands, marshes, and along the shores of rivers and lakes",
+            "data": "Wading birds known for their long legs and elegant appearance",
+            "info": "They are skilled hunters, feeding on fish and other aquatic creatures",
+            "fact": "Their striking white plumage is a key identifying feature",
+            "description": "Graceful wading birds known for their beauty and expertise in hunting aquatic prey."
+        },
+        {
+            "name": "Elephant",
+            "habitat": "Found in a range of habitats, from savannas to forests, in Africa and Asia",
+            "data": "Largest land mammals with distinctive trunks and tusks",
+            "info": "They are herbivorous and have complex social structures",
+            "fact": "The African species is the largest of all elephant species",
+            "description": "Iconic and intelligent mammals known for their impressive size and cultural significance."
+        },
+        {
+            "name": "Elk",
+            "habitat": "Found in various North American habitats, including forests and grasslands",
+            "data": "Large herbivorous mammals related to deer",
+            "info": "They are known for their impressive antlers and social behavior",
+            "fact": "Also called wapiti, a word from the Shawnee language",
+            "description": "Majestic mammals celebrated for their striking appearance and prominent antlers."
+        },
+        {
+            "name": "Emu",
+            "habitat": "Found in open woodlands, savannas, and grasslands of Australia",
+            "data": "Large flightless birds known for their speed and long legs",
+            "info": "They are herbivorous and have distinctive blue-green eggs",
+            "fact": "The second-largest bird species in the world, after ostriches",
+            "description": "Iconic Australian birds known for their unique appearance and swift running abilities."
+        },
+        {
+            "name": "Ermine",
+            "habitat": "Found in northern regions of North America, Europe, and Asia",
+            "data": "Small mammals belonging to the weasel family",
+            "info": "They are known for their white winter coat and brown summer fur",
+            "fact": "Skilled hunters known for their agility",
+            "description": "Small carnivores with striking seasonal fur changes, adapted to cold environments."
+        },
+        {
+            "name": "Falcon",
+            "habitat": "Found in various habitats, including deserts, mountains, and open landscapes",
+            "data": "Birds of prey known for their exceptional speed and hunting skills",
+            "info": "They have keen eyesight and powerful talons for catching prey",
+            "fact": "Peregrine falcons are among the fastest animals, reaching speeds of up to 240 mph in a dive",
+            "description": "Agile and skilled hunters celebrated for their speed and aerial prowess."
+        },
+        {
+            "name": "Felidae",
+            "habitat": "Found in diverse habitats worldwide, including forests, grasslands, and savannas",
+            "data": "Family of mammals comprising big and small cats, such as lions, tigers, and domestic cats",
+            "info": "Carnivorous predators known for their agility and hunting abilities",
+            "fact": "The cheetah is the fastest land animal, capable of sprinting at incredible speeds",
+            "description": "A diverse family of carnivorous mammals encompassing a wide range of big and small cats."
+        },
+        {
+            "name": "Ferret",
+            "habitat": "Domesticated but originally descended from European polecat ancestors",
+            "data": "Small domesticated carnivorous mammals with a playful and inquisitive nature",
+            "info": "Often used for hunting and as pets",
+            "fact": "Their playful behavior earned them the nickname 'carpet sharks'",
+            "description": "Charming and curious domesticated animals known for their mischievous antics."
+        },
+        {
+            "name": "Finch",
+            "habitat": "Found in a wide range of habitats, including forests, grasslands, and urban areas",
+            "data": "Small passerine birds known for their colorful plumage and melodious songs",
+            "info": "Granivorous, primarily feeding on seeds",
+            "fact": "Charles Darwin's study of them on the Galápagos Islands contributed to his theory of evolution",
+            "description": "Small, vibrant birds admired for their beautiful songs and role in evolutionary science."
+        },
+        {
+            "name": "Firefly",
+            "habitat": "Found in various terrestrial and aquatic environments worldwide",
+            "data": "Bioluminescent beetles known for their nighttime light displays",
+            "info": "Use their light to attract mates and communicate",
+            "fact": "Different species have distinct flash patterns and colors",
+            "description": "Enchanting insects celebrated for their magical bioluminescent displays."
+        },
+        {
+            "name": "Fish",
+            "habitat": "Found in diverse aquatic environments, including oceans, rivers, and lakes",
+            "data": "Aquatic vertebrates with gills and fins, adapted for life in the water",
+            "info": "Come in various species, shapes, and sizes, with a wide range of adaptations",
+            "fact": "The ocean sunfish (Mola mola) is one of the heaviest bony fish in the world",
+            "description": "Diverse aquatic animals vital to ecosystems and human food sources."
+        },
+        {
+            "name": "Flamingo",
+            "habitat": "Found in wetlands, lakes, and lagoons in Africa, Asia, the Americas, and Europe",
+            "data": "Tall wading birds known for their distinctive pink plumage and long legs",
+            "info": "Filter feeders, using their specialized bills to extract food from water",
+            "fact": "Highly social birds, often seen in large flocks",
+            "description": "Striking wading birds admired for their vibrant pink feathers and elegant appearance."
+        },
+        {
+            "name": "Flea",
+            "habitat": "Found on mammals and birds, especially in their fur or feathers",
+            "data": "Tiny parasitic insects known for their jumping ability",
+            "info": "Feed on the blood of their hosts and can transmit diseases",
+            "fact": "Known for their incredible jumping power, relative to their size",
+            "description": "Small but notorious parasites that can be troublesome for animals and humans alike."
+        },
+        {
+            "name": "Fly",
+            "habitat": "Found in diverse terrestrial and aquatic environments worldwide",
+            "data": "Insects with two wings and a highly maneuverable flight capability",
+            "info": "Diverse and include many species with varying lifestyles",
+            "fact": "Some species play essential roles as pollinators, while others are pests",
+            "description": "Agile insects known for their flight skills and wide ecological roles."
+        },
+        {
+            "name": "Flyingfish",
+            "habitat": "Found in warm oceanic waters, especially in the Atlantic, Pacific, and Indian Oceans",
+            "data": "Fish with specialized pectoral fins that allow them to glide above the water's surface",
+            "info": "Use their gliding ability to escape from predators",
+            "fact": "Some can cover distances of several meters during their flights",
+            "description": "Remarkable marine creatures known for their unique adaptation for escaping predators."
+        },
+        {
+            "name": "Fowl",
+            "habitat": "Domesticated in various regions worldwide for meat and eggs",
+            "data": "Birds belonging to the order Galliformes, including chickens, turkeys, and quails",
+            "info": "Commonly raised for human consumption and as poultry",
+            "fact": "Chickens are the most numerous and widely distributed species",
+            "description": "Domesticated birds that provide a significant source of meat and eggs for humans."
+        },
+        {
+            "name": "Fox",
+            "habitat": "Found in a range of terrestrial habitats, including forests, grasslands, and urban areas",
+            "data": "Carnivorous mammals known for their intelligence and adaptability",
+            "info": "Omnivorous and have a diverse diet, including small mammals, birds, and fruits",
+            "fact": "Known for their bushy tails and cunning hunting techniques",
+            "description": "Clever and versatile mammals celebrated for their adaptability and sly behavior."
+        },
+        {
+            "name": "Frog",
+            "habitat": "Found in various aquatic and terrestrial environments, from rainforests to deserts",
+            "data": "Amphibians known for their leaping ability and semi-aquatic lifestyle",
+            "info": "Have permeable skin and lay eggs in water, undergoing metamorphosis",
+            "fact": "The golden poison dart frog is one of the most toxic animals on Earth",
+            "description": "Fascinating amphibians recognized for their unique life cycle and environmental sensitivity."
         }
     ]
 }
